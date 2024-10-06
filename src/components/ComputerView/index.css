@@ -1,0 +1,15 @@
+.computer-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .options-container {
+    margin: 10px 0;
+  }
+  
+  .feedback {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #dc3545;
+  }
+  
